@@ -3,6 +3,7 @@
 # 支持版本
 目前只在Windows测试通过
 # 如何使用
+> 123步骤不做也可以使用，就是不能直接黏贴图片，后续有时间再改成把图片上传到为知，就不用配置了
  1. 找到位置笔记的插件存放位置   ,比如我的在：C:\Program Files (x86)\WizNote\mydata\Plugins   
 ![](https://gitee.com/Wolfmoor/IMG/raw/master/img/1601357836.8120499.png)     
  2. 下载代码，把Wiz.HyperMD文件夹拷贝到Plugins下     
