@@ -1,5 +1,6 @@
 # Wiz.HyperMD
-为知笔记所见即所得markdown编辑器插件
+基于[HyperMD](https://github.com/laobubu/HyperMD)的为知笔记所见即所得markdown编辑器插件   
+
 # 如何使用
  1. 找到位置笔记的插件存放位置   ,比如我的在：C:\Program Files (x86)\WizNote\mydata\Plugins   
 ![](https://gitee.com/Wolfmoor/IMG/raw/master/img/1601357836.8120499.png)     
