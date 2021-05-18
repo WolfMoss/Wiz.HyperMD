@@ -1,3 +1,5 @@
+# 此项目已经停止更新
+- 请关注https://github.com/xyhuai/Wiz.Vditor
 # Wiz.HyperMD
 基于[HyperMD](https://github.com/laobubu/HyperMD)的为知笔记所见即所得markdown编辑器插件   
 # 支持版本
